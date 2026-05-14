@@ -14,7 +14,7 @@
                 names[i] = Console.ReadLine();
             }
 
-            Console.WriteLine("\nNames in reverse order:");
+            Console.WriteLine("Names in reverse order:");
 
             for (int i = names.Length - 1; i >= 0; i--)
             {
